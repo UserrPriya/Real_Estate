@@ -1,0 +1,8 @@
+1.in our app create client folder in that install npm
+    > npm create vite@latest client
+    > react & JavaScript + SWC package
+    
+    IN client folder =
+        > npm in
+        > intall tailwind => npm install -D tailwindcss postcss autoprefixer
+        > npx tailwindcss init -p
